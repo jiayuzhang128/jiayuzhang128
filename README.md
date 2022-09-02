@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 		<img src="https://github-readme-stats.vercel.app/api?username=jiayuzhang128&show_icons=true&theme=radical" width="50%" alt="Jiayu's github stats"/>
 	</a>
 	<a href="https://github.com/jiayuzhang128/jiayuzhang128" target="_blank">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiayuzhang128&layout=compact&theme=vue" width="50%" alt="Jiayu's github top skills"/>
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiayuzhang128&layout=compact&theme=vue-dark" width="50%" alt="Jiayu's github top skills"/>
 	</a>
 </p>
 
