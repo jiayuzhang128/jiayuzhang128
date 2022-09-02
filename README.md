@@ -27,13 +27,13 @@ Here are some ideas to get you started:
 
 
 ### Skills and Tools
+
 <p align="center">
 	<img src="./images/python.svg" width="40" height="40" alt="css" />
 	<img src="./images/linux.svg" width="40" height="40" alt="linux" />
 	<img src="./images/github.svg" width="40" height="40" alt="github" />
 	<img src="./images/git.svg" width="40" height="40" alt="git" />
 </p>
-
 
 ### How to reach me
 
@@ -50,3 +50,6 @@ Here are some ideas to get you started:
     </tr>
 </table>
 
+### Contact
+
+![e-mail](https://img.shields.io/static/v1?label=e-mail&message=163&color=green)：zjy_990315@163.com
