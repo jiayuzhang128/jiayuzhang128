@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 ### <p align="center"> A master's student at Northeastern University(China) </p>
 
 <p align="center">
-	<a href="https://github.com/jiayuzhang128" target="_blank">
-		<img src="https://github-readme-stats.vercel.app/api?username=jiayuzhang128&show_icons=true&theme=gruvbox" width="45%" alt="Jiayu's github stats"/>
+	<a href="https://github.com/jiayuzhang128/jiayuzhang128" target="_blank">
+		<img src="https://github-readme-stats.vercel.app/api?username=jiayuzhang128&show_icons=true&theme=radical" width="50%" alt="Jiayu's github stats"/>
 	</a>
-	<a href="https://github.com/programmer-zhang" target="_blank">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiayuzhang28&layout=compact&theme=dark" width="45%" alt="Jiayu's github top skills"/>
+	<a href="https://github.com/jiayuzhang128/jiayuzhang128" target="_blank">
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiayuzhang128&layout=compact&theme=vue" width="50%" alt="Jiayu's github top skills"/>
 	</a>
 </p>
 
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ### How to reach me
 
-<table>
+<table align="center">
     <tr align="center">
         <td><img src="./images/openi.svg" width="80" height="40" alt="openilogo" /></td>
         <td><img src="./images/csdnlogo.png" width="80" height="40" alt="csdnlogo" /></td>
