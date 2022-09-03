@@ -29,10 +29,11 @@ Here are some ideas to get you started:
 ### Skills and Tools
 
 <p align="center">
-	<img src="./images/python.svg" width="40" height="40" alt="css" />
+	<img src="./images/python.svg" width="40" height="40" alt="python" />
 	<img src="./images/linux.svg" width="40" height="40" alt="linux" />
 	<img src="./images/github.svg" width="40" height="40" alt="github" />
 	<img src="./images/git.svg" width="40" height="40" alt="git" />
+	<img src="./images/vim.svg" width="40" height="40" alt="vim" />
 </p>
 
 ### How to reach me
