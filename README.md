@@ -52,4 +52,7 @@ Here are some ideas to get you started:
 
 ### Contact
 
-![e-mail](https://img.shields.io/static/v1?label=e-mail&message=163&color=green)：zjy_990315@163.com
+<p align="center">
+	<img src="https://img.shields.io/static/v1?label=e-mail&message=163&color=green" alt="e-mail" />
+</p>
+<p align="center"> zjy_990315@163.com </p>
