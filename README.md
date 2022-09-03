@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 
 ## <p align="center">Hi 👋, I'm Jiayu</p>
 
-### <p align="center"> A master's student at Northeastern University(China) </p>
+### <p align="center"> I'm a master's student at Northeastern University(China) </p>
+### <p align="center"> I’m currently learning 3D perception </p>
 
 <p align="center">
 	<a href="https://github.com/jiayuzhang128/jiayuzhang128" target="_blank">
