@@ -12,24 +12,48 @@ Here are some ideas to get you started:
 -->
 
 
-## <p align="center">Hi 👋, I'm Jiayu</p>
+### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Jiayu
 
-### <p align="center"> I'm a master's student at Northeastern University(China) </p>
-### <p align="center"> I’m currently learning 3D perception </p>
+<img src="https://komarev.com/ghpvc/?username=jiayuhzang128&color=blue&style=flat&label=PROFILE+VIEWS" />
 
-<p align="center">
-	<a href="https://github.com/jiayuzhang128/jiayuzhang128" target="_blank">
-		<img src="https://github-readme-stats.vercel.app/api?username=jiayuzhang128&show_icons=true&theme=radical" width="50%" alt="Jiayu's github stats"/>
-	</a>
-	<a href="https://github.com/jiayuzhang128/jiayuzhang128" target="_blank">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiayuzhang128&layout=compact&theme=vue-dark" width="50%" alt="Jiayu's github top skills"/>
-	</a>
-</p>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=jiayuzhang128&show_icons=true&theme=radical" />
+
+- 🎓 I’m currently studying for a master's degree at NEU
+- 🌱 I’m currently learning 3D perception
+- 😄 Pronouns: If you lift the headrope the meshes spread open 纲举目张
+- 📫 How to reach me: zjy_990315@163.com
+- <table align="left">
+    <tr align="center">
+        <td><img src="./images/openi.svg" width="40" height="20" alt="openilogo" /></td>
+        <td><img src="./images/csdnlogo.png" width="40" height="20" alt="csdnlogo" /></td>
+        <td><img src="./images/gitee.svg" width="40" height="20" alt="giteelogo" /></td>
+    </tr>
+    <tr align="center">
+        <td><a href="https://git.openi.org.cn/jiayu_neu" target="_blank">OpenI</a></td>
+        <td><a href="https://blog.csdn.net/qq_40918859" target="_blank">CSDN</a></td>
+        <td><a href="https://gitee.com/jiayuzhang128" target="_blank">Gitee</a></td>
+    </tr>
+</table>
+
+
+
+
+
+
+
+
+
+--------
+
+
+
+
+
 
 
 ### Skills and Tools
 
-<p align="center">
+<p align="left">
 	<img src="./images/python.svg" width="40" height="40" alt="python" />
 	<img src="./images/linux.svg" width="40" height="40" alt="linux" />
 	<img src="./images/github.svg" width="40" height="40" alt="github" />
@@ -37,24 +61,5 @@ Here are some ideas to get you started:
 	<img src="./images/vim.svg" width="40" height="40" alt="vim" />
 </p>
 
-### How to reach me
 
-<table align="center">
-    <tr align="center">
-        <td><img src="./images/openi.svg" width="80" height="40" alt="openilogo" /></td>
-        <td><img src="./images/csdnlogo.png" width="80" height="40" alt="csdnlogo" /></td>
-        <td><img src="./images/gitee.svg" width="80" height="40" alt="giteelogo" /></td>
-    </tr>
-    <tr align="center">
-        <td><a href="https://git.openi.org.cn/jiayu_neu" target="_blank">OpenI: jiayu_neu</a></td>
-        <td><a href="https://blog.csdn.net/qq_40918859" target="_blank">CSDN: jiayuzhang128</a></td>
-        <td><a href="https://gitee.com/jiayuzhang128" target="_blank">Gitee: jiayuzhang128</a></td>
-    </tr>
-</table>
 
-### Contact
-
-<p align="center">
-	<img src="https://img.shields.io/static/v1?label=e-mail&message=163&color=green" alt="e-mail" />
-</p>
-<p align="center"> zjy_990315@163.com </p>
