@@ -16,42 +16,49 @@ Here are some ideas to get you started:
 
 <img src="https://komarev.com/ghpvc/?username=jiayuhzang128&color=blue&style=flat&label=PROFILE+VIEWS" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=jiayuzhang128&show_icons=true&theme=radical" />
+<p>
+<a href="https://github.com/jiayuzhang128/jiayuzhang128" target="_blank">
+	<img align="right" src="https://github-readme-stats.vercel.app/api?username=jiayuzhang128&show_icons=true&theme=radical" alt="Jiayu's github stats" />
+</a>
 
 - 🎓 I’m currently studying for a master's degree at NEU
 - 🌱 I’m currently learning 3D perception
 - 😄 Pronouns: If you lift the headrope the meshes spread open 纲举目张
 - 📫 How to reach me: zjy_990315@163.com
-- <table align="left">
-    <tr align="center">
-        <td><img src="./images/openi.svg" width="40" height="20" alt="openilogo" /></td>
-        <td><img src="./images/csdnlogo.png" width="40" height="20" alt="csdnlogo" /></td>
-        <td><img src="./images/gitee.svg" width="40" height="20" alt="giteelogo" /></td>
-    </tr>
-    <tr align="center">
-        <td><a href="https://git.openi.org.cn/jiayu_neu" target="_blank">OpenI</a></td>
-        <td><a href="https://blog.csdn.net/qq_40918859" target="_blank">CSDN</a></td>
-        <td><a href="https://gitee.com/jiayuzhang128" target="_blank">Gitee</a></td>
-    </tr>
-</table>
+</p>
 
+<p>
+	<h3>Other Platforms</h3>
+</p>
 
+<p align="left">
+	<table align="left">
+		<tr align="center">
+			<td> 
+			<a href="https://git.openi.org.cn/jiayu_neu" target="_blank">
+				<img src="./images/openi.svg" width="40" height="20" alt="openilogo" />
+			</a>
+			</td>
+			<td>
+			<a href="https://blog.csdn.net/qq_40918859" target="_blank">
+				<img src="./images/csdnlogo.png" width="40" height="20" alt="csdnlogo" />
+			</a>
+			</td>
+			<td>
+			<a href="https://gitee.com/jiayuzhang128" target="_blank">
+				<img src="./images/gitee.svg" width="40" height="20" alt="giteelogo" />
+			</a>
+			</td>
+		</tr>
+	</table>
+</p>
 
+<br>
+<br>
 
-
-
-
-
-
---------
-
-
-
-
-
-
-
-### Skills and Tools
+<p align="left">
+	<h3>Skills and Tools</h3>
+</p>
 
 <p align="left">
 	<img src="./images/python.svg" width="40" height="40" alt="python" />
