@@ -25,9 +25,10 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning 3D perception
 - 😄 Pronouns: If you lift the headrope the meshes spread open 纲举目张
 - 📫 How to reach me: zjy_990315@163.com
+- ⭐ My knowledge base: [click to discover](https://github.com/jiayuzhang128/Knowledge-Base)
 </p>
 
-<p>
+<p align="left">
 	<h3>Other Platforms</h3>
 </p>
 
