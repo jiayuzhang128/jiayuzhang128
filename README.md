@@ -37,17 +37,17 @@ Here are some ideas to get you started:
 		<tr align="center">
 			<td> 
 			<a href="https://git.openi.org.cn/jiayu_neu" target="_blank">
-				<img src="./images/openi.svg" width="40" height="20" alt="openilogo" />
+				<img src="./images/openi.svg" width="60" height="30" alt="openilogo" />
 			</a>
 			</td>
 			<td>
 			<a href="https://blog.csdn.net/qq_40918859" target="_blank">
-				<img src="./images/csdnlogo.png" width="40" height="20" alt="csdnlogo" />
+				<img src="./images/csdnlogo.png" width="60" height="30" alt="csdnlogo" />
 			</a>
 			</td>
 			<td>
 			<a href="https://gitee.com/jiayuzhang128" target="_blank">
-				<img src="./images/gitee.svg" width="40" height="20" alt="giteelogo" />
+				<img src="./images/gitee.svg" width="60" height="30" alt="giteelogo" />
 			</a>
 			</td>
 		</tr>
