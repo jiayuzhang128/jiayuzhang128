@@ -12,9 +12,12 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Jiayu
+### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />, I'm Jiayu
 
-<img src="https://komarev.com/ghpvc/?username=jiayuhzang128&color=blue&style=flat&label=PROFILE+VIEWS" />
+<p align="left">
+	<img src="https://komarev.com/ghpvc/?username=jiayuhzang128&color=blue&style=flat&label=PROFILE+VIEWS" />
+	<img src="https://img.shields.io/badge/🌟-If useful-blue" />
+</p>
 
 <p>
 <a href="https://github.com/jiayuzhang128/jiayuzhang128" target="_blank">
