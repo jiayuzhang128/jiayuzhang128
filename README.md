@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <p align="left">
 	<img src="https://komarev.com/ghpvc/?username=jiayuhzang128&color=blue&style=flat&label=PROFILE+VIEWS" />
 	<img src="https://img.shields.io/badge/🌟-If useful-blue" />
+	<a href="https://wakatime.com/@7f1c1b60-dece-4a6f-bcd2-d12861a416c6"><img src="https://wakatime.com/badge/user/7f1c1b60-dece-4a6f-bcd2-d12861a416c6.svg" alt="Total time coded since Sep 7 2022" /></a>
 </p>
 
 <p>
@@ -72,5 +73,9 @@ Here are some ideas to get you started:
 	<img src="./images/vim.svg" width="40" height="40" alt="vim" />
 </p>
 
+<p align="left">
+	<h3>Waka time</h3>
+</p>
 
+[![Jiayu Zhang's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jiayuzhang128)](https://wakatime.com/@7f1c1b60-dece-4a6f-bcd2-d12861a416c6)
 
