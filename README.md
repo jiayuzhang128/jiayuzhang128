@@ -71,6 +71,7 @@ Here are some ideas to get you started:
 	<img src="./images/github.svg" width="40" height="40" alt="github" />
 	<img src="./images/git.svg" width="40" height="40" alt="git" />
 	<img src="./images/vim.svg" width="40" height="40" alt="vim" />
+	<img src="./images/jupyter.svg" width="40" height="40" alt="jupyter" />
 </p>
 
 <p align="left">
