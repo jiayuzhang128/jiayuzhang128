@@ -67,6 +67,7 @@ Here are some ideas to get you started:
 
 <p align="left">
 	<img src="./images/python.svg" width="40" height="40" alt="python" />
+	<img src="./images/opencv.svg" width="40" height="40" alt="opencv" />
 	<img src="./images/cpp.svg" width="40" height="40" alt="cpp" />
 	<img src="./images/matlab.svg" width="40" height="40" alt="matlab" />
 	<img src="./images/linux.svg" width="40" height="40" alt="linux" />
