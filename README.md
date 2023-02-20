@@ -84,45 +84,6 @@ Here are some ideas to get you started:
 [![Jiayu Zhang's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jiayuzhang128)](https://wakatime.com/@7f1c1b60-dece-4a6f-bcd2-d12861a416c6)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-226%20hrs%206%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 18 Contributions in the Year 2023
- > 
-> 📦 533.4 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 27 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning        7 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
-🌆 Daytime       39 commits       █████████░░░░░░░░░░░░░░░░   38.61 % 
-🌃 Evening       40 commits       ██████████░░░░░░░░░░░░░░░   39.60 % 
-🌙 Night         15 commits       ███░░░░░░░░░░░░░░░░░░░░░░   14.85 % 
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday          32 commits       ████████░░░░░░░░░░░░░░░░░   31.68 % 
-Tuesday          9 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-Wednesday       10 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
-Thursday        14 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
-Friday          10 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
-Saturday        18 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
-Sunday           8 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
-
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -167,5 +128,5 @@ JavaScript               1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jiayuzhang128/jiayuzhang128/master/charts/bar_graph.png) 
 
 
- Last Updated on 20/02/2023 06:09:37 UTC
+ Last Updated on 20/02/2023 06:21:48 UTC
 <!--END_SECTION:waka-->
