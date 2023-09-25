@@ -88,18 +88,20 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 53 mins             ████████████████████████░   97.81 % 
+Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+Prolog                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  54 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+AutumnRecruitment        54 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    54 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/09/2023 18:36:29 UTC
+ Last Updated on 25/09/2023 18:37:38 UTC
 <!--END_SECTION:waka-->
