@@ -88,18 +88,20 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 4 mins              ███████████████████████░░   91.75 % 
+Python                   0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+RAFT-Stereo              4 mins              ████████████████████████░   94.13 % 
+rgbms                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    4 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 27/02/2024 18:38:34 UTC
+ Last Updated on 28/02/2024 18:36:20 UTC
 <!--END_SECTION:waka-->
