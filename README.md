@@ -88,18 +88,18 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      1 hr 27 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 27 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+caculator                1 hr 27 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 27 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 29/09/2024 18:42:08 UTC
+ Last Updated on 30/09/2024 18:44:47 UTC
 <!--END_SECTION:waka-->
