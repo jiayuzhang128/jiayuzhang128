@@ -88,18 +88,21 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      21 mins             ████████████░░░░░░░░░░░░░   49.16 % 
+JSON                     18 mins             ███████████░░░░░░░░░░░░░░   42.68 % 
+Python                   3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  43 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+hello_world              39 mins             ███████████████████████░░   91.85 % 
+PythonProj               3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  43 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 14/10/2024 18:44:25 UTC
+ Last Updated on 15/10/2024 18:44:41 UTC
 <!--END_SECTION:waka-->
