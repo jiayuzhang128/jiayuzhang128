@@ -82,24 +82,6 @@ Here are some ideas to get you started:
 </p>
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   1 hr 1 min          █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  1 hr 1 min          █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-nlp                      1 hr 1 min          █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  1 hr 1 min          █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 30/11/2024 18:43:41 UTC
+ Last Updated on 01/12/2024 18:44:23 UTC
 <!--END_SECTION:waka-->
