@@ -88,19 +88,18 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JSON                     33 mins             █████████████████████░░░░   82.66 % 
-Python                   6 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  39 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-LKJ_JS_Auto_Gen_Sys      39 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  39 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 29/01/2025 18:43:12 UTC
+ Last Updated on 30/01/2025 18:42:51 UTC
 <!--END_SECTION:waka-->
