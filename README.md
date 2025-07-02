@@ -82,6 +82,24 @@ Here are some ideas to get you started:
 </p>
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 01/07/2025 18:50:13 UTC
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   4 mins              █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  4 mins              █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+JRUDataLossAnalyser      4 mins              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  4 mins              █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 02/07/2025 18:50:53 UTC
 <!--END_SECTION:waka-->
