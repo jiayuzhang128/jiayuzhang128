@@ -82,24 +82,6 @@ Here are some ideas to get you started:
 </p>
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 29/07/2025 18:56:33 UTC
+ Last Updated on 30/07/2025 18:55:32 UTC
 <!--END_SECTION:waka-->
